@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0056-merge-intervals) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0146-lru-cache) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
