@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0056-merge-intervals) |
+| [0136-single-number](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0283-move-zeroes) |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0189-rotate-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
