@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0198-house-robber) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0283-move-zeroes) |
 ## Math
