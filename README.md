@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
@@ -146,15 +147,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Trie
 |  |
