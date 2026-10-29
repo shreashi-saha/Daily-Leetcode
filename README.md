@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0198-house-robber) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
