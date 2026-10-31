@@ -1,20 +1,34 @@
 class Solution {
 private:
-    int move(int i, int j, vector<vector<int>>& matrix, vector<vector<int>>& dp)
+    int move(int m, int n, vector<vector<int>>& matrix, vector<vector<int>>& dp)
     {
-        if(i < 0 || j < 0 || matrix[i][j]==1) return 0;
-        if(i==0 && j==0) return 1;
-        if(dp[i][j]!=-1) return dp[i][j];
-
-        int up = move(i-1, j, matrix, dp);
-        int left = move(i, j-1, matrix, dp);
-        return dp[i][j]=up+left;
+        for(int i=0;i<m;i++)
+        {
+            for(int j=0;j<n;j++)
+            {
+                if(matrix[i][j]==1)
+                {
+                    dp[i][j]=0;
+                    continue;
+                }
+                if(i==0 && j==0)
+                {
+                    dp[i][j]=1;
+                    continue;
+                }
+                int up = 0, left = 0;
+                if(i>0) up = dp[i-1][j];
+                if(j>0) left = dp[i][j-1];
+                dp[i][j] = up+left;
+            }
+        }
+        return dp[m-1][n-1];
     }
 public:
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
         int m = obstacleGrid.size();
         int n = obstacleGrid[0].size();
         vector<vector<int>> dp(m, vector<int>(n, -1));
-        return move(m-1, n-1, obstacleGrid, dp);
+        return move(m, n, obstacleGrid, dp);
     }
 };
