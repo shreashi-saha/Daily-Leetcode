@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0931-minimum-falling-path-sum](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0931-minimum-falling-path-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -190,4 +192,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0063-unique-paths-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/shreashi-saha/Daily-Leetcode/tree/master/0931-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
